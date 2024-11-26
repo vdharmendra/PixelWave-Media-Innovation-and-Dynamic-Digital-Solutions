@@ -1,12 +1,12 @@
-# School backPacks | School backPacks Social Media Compaign Landing Page
+# PixelWave Media | Innovation and Dynamic Digital Solutions Social Media Campaign Landing Page
 <a href="https://www.linkedin.com/in/dharmendraverma95/" target="_blank">LinkedIn Profile </a>
 
 <a href="https://www.behance.net/dhirukumar" target="_blank">Behance Profile </a>
 
-##School backPacks | School backPacks Social Media Compaign Landing Page, School backPacks Stories Campaign Sign Up Noe and get 10% DISCOUNT on your FRIST Order.
+##PixelWave Media | Innovation and Dynamic Digital Solutions Social Media Campaign Landing Page.
 
 ### HERO BANNER CALL TO ACTION
--- hero banner button link to New School backPacks Stories Campaign Landing Page --
+-- hero banner button link to PixelWave Media Stories Campaign Landing Page --
 
 ## Desgin 
 <ul>
@@ -18,21 +18,17 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
-  <li>Font Awesome</li>
-  <li>Google Font</li>
-  <li>images from freepik</li>
-  <li>desgin in Abode XD</li>
+  <li>ChatGPT</li>
+  <li>Images from freepik</li>
+  <li>Desgin in Abode XD</li>
 </ul>
 <br>
 <span>Desktop Desgin</span><br/>
-<a href="https://www.behance.net/gallery/212133257/Grind-Coffee-Grind-Coffee-Landing-Page" target="_blank" >
-<img src="./img/school--backpack-landing-page.gif" width="575px"/>
+<a href="https://www.behance.net/gallery/213387783/PixelWave-Media-Innovation-Digital-Solutions" target="_blank" >
+<img src="./landing-page.gif" width="575px"/>
 </a>
-<a href="https://www.behance.net/gallery/212133257/Grind-Coffee-Grind-Coffee-Landing-Page" target="_blank" >
-<img src="./img/cover.png" width="575px"/>
+<br>
+<span>COVER </span><br/>
+<a href="https://www.behance.net/gallery/213387783/PixelWave-Media-Innovation-Digital-Solutions" target="_blank" >
+<img src="./cover.png" width="575px"/>
 </a>
-
-
-
-
